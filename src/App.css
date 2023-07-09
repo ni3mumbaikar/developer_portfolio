@@ -1,0 +1,13 @@
+#root {
+  /* max-width: 1280px; */
+  width: 100%;
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+  /*text-align: center;*/
+}
+
+@font-face {
+  font-family: 'LemonJelly';
+  font-weight: 900;
+  src: local('LemonJelly'), url(./assets/fonts/LemonJelly.ttf) format('opentype');
+}
